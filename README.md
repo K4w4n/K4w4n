@@ -26,5 +26,5 @@
     <a href="mailto:kawanaraujocontatoi@gmail.com"><img align="center" alt="gmail" height="25" width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/kawan-ara%C3%BAjo-96ba001b1/"><img align="center" alt="linkedin" height="25" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://github.com/K4w4n"><img align="center" alt="github" height="25" width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://www.facebook.com/profile.php?id=100004386826067"><img align="center" alt="facebook" height="25" width="100" src="	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+    <a href="https://www.facebook.com/profile.php?id=100004386826067"><img align="center" alt="facebook" height="25" width="100" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 </div>
