@@ -31,7 +31,7 @@
 
 ## Apresentação
 
-Me chamo Kawan Araújo, sou programador e estudante apaixonado pelo mundo da tecnologia. Finalizei em 2021 os cursos técnicos em desenvolvimento de sistemas e administração> Em 2022 iniciei o meu sonho, cursar a faculdade de ciencia da computação e agora estou perseguindo um novo objetivo, entrar no mercado de trabalho como um desenvolvedor web.
+Me chamo Kawan Araújo, sou programador e estudante apaixonado pelo mundo da tecnologia. Finalizei em 2021 os cursos técnicos em desenvolvimento de sistemas e administração. Em 2022 iniciei o meu sonho, cursar a faculdade de ciencia da computação e agora estou perseguindo um novo objetivo, entrar no mercado de trabalho como um desenvolvedor web.
 
 ## Projetos principais
 
