@@ -34,10 +34,13 @@
 Me chamo Kawan Araújo, sou programador e estudante apaixonado pelo mundo da tecnologia. Finalizei em 2021 os cursos técnicos em desenvolvimento de sistemas e administração. Em 2022 iniciei o meu sonho, cursar a faculdade de ciencia da computação e agora estou perseguindo um novo objetivo, entrar no mercado de trabalho como um desenvolvedor web.
 
 ## Projetos principais
-
+  
+### Projeto Ceos community
+  
 Já desenvolvi diversos projetos, porem o mais desafiador foi em equipe para um TCC, em resumo esse projeto foi feito utilizando Javascript, Nodejs, mysql e diversas outras tecnologias, tudo isso para criar uma plataforma onde os usuarios possam postar seus artigos relacionados ao mundo da programação, compartilhando e absorvendo conhecimento para a construção de uma comunidade mais unida. Para saber mais sobre esse projeto [Click aqui](https://github.com/K4w4n/Ceos).
 
 ![ceos](https://user-images.githubusercontent.com/69736349/151664614-751c46e4-19c9-4d91-acbd-e4cc27eb5800.gif)
-  
+  ### Projeto Cadastro de pessoas
 O projeto mais recente que desenvolvi tem o objetivo de testar minhas habilidades com php, embora mais simples em comparação ao anterior, deu um certo trabalho que foi muito gratificante ao final do processo. Consiste basicamente em um sistema de cadastro de pessoas, em que qualquer usuario pode cadastrar uma pessoa nova e vizualizar as pessoas já cadastradas no sistema. Alem do básico Html, css e javascript, o projeto conta tambem com php e mysql. Para saber mais sobre esse projeto [Click aqui](https://github.com/K4w4n/cadastro-de-pessoas).
+  
 ![pessoas](https://user-images.githubusercontent.com/69736349/151665615-7484bed9-d83c-40ff-b144-580fcf9ecad2.gif)
